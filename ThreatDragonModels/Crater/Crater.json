@@ -1,0 +1,31 @@
+{
+  "version": "2.1.3",
+  "summary": {
+    "title": "Crater",
+    "owner": "Dobricic Uros",
+    "description": "Crater is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.\n\nWeb Application is made using Laravel & VueJS while the Mobile Apps are built using React Native.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Dobricic Uros"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Stride für Crater",
+        "diagramType": "STRIDE",
+        "placeholder": "Neue STRIDE Diagramm Beschreibung",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.1.3",
+        "cells": [],
+        "description": "Stride"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Dagmar Moser",
+    "threatTop": 0
+  }
+}
